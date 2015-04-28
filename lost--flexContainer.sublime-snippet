@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+<![CDATA[
+lost-flex-container: ${1};
+]]>
+    </content>
+    <tabTrigger>l-flex-container</tabTrigger>
+    <scope>source.css, source.scss</scope>
+    <description>Lost flex-container</description>
+</snippet>

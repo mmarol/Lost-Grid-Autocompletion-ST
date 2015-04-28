@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+<![CDATA[
+lost-align: ${1};
+]]>
+    </content>
+    <tabTrigger>l-align</tabTrigger>
+    <scope>source.css, source.scss</scope>
+    <description>Lost align</description>
+</snippet>

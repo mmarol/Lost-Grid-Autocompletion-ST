@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+<![CDATA[
+lost-waffle: ${1};
+]]>
+    </content>
+    <tabTrigger>l-waffle</tabTrigger>
+    <scope>source.css, source.scss</scope>
+    <description>Lost waffle</description>
+</snippet>

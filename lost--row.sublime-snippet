@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+<![CDATA[
+lost-row: ${1};
+]]>
+    </content>
+    <tabTrigger>l-row</tabTrigger>
+    <scope>source.css, source.scss</scope>
+    <description>Lost row</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+<![CDATA[
+lost-move: ${1};
+]]>
+    </content>
+    <tabTrigger>l-move</tabTrigger>
+    <scope>source.css, source.scss</scope>
+    <description>Lost move</description>
+</snippet>

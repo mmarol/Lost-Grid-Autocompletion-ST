@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+<![CDATA[
+lost-utility: ${1};
+]]>
+    </content>
+    <tabTrigger>l-utility</tabTrigger>
+    <scope>source.css, source.scss</scope>
+    <description>Lost utility</description>
+</snippet>

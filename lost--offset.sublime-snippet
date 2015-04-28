@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+<![CDATA[
+lost-offset: ${1};
+]]>
+    </content>
+    <tabTrigger>l-offset</tabTrigger>
+    <scope>source.css, source.scss</scope>
+    <description>Lost offset</description>
+</snippet>
