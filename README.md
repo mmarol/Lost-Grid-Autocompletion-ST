@@ -1,5 +1,6 @@
 # Lost-Grid-Autocompletion-ST
 Sublime text snippets for CSS and SCSS for Lost Grid autocompletion
+
 https://github.com/corysimmons/lost
 
 Find your Sublime packages folder by going to Preferences>Browse Packages (on Mac. Not sure about Windows.)
