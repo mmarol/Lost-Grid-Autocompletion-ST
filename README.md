@@ -7,14 +7,24 @@ Create a folder and paste all the snippet files in it. I have mine within the Us
 
 The autocompletions are as follows. Most of them should show up when you type the first few letters. Refer to the Lost repo for details on what Lost does.
 
-l-utility
-l-flex-container
-l-center
-l-align
-l-column
-l-row
-l-waffle
-l-offset
-l-move
-l-masonry-wrap
-l-masonry-column
+`l-utility`
+
+`l-flex-container`
+
+`l-center`
+
+`l-align`
+
+`l-column`
+
+`l-row`
+
+`l-waffle`
+
+`l-offset`
+
+`l-move`
+
+`l-masonry-wrap`
+
+`l-masonry-column`
